@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Perks>
+    <Perk>
+        <Name>Perk 1</Name>
+        <Description>After the destruction of the wall, with probability of 2%, player gets a red booster</Description>
+        <Level>1</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 2</Name>
+        <Description>After the destruction of the wall, with probability of 2%, player gets a blue booster on 5 seconds</Description>
+        <Level>1</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 3</Name>
+        <Description>After the destruction of the wall, with probability of 2%, player gets a purple booster on 5 seconds</Description>
+        <Level>1</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 4</Name>
+        <Description>Boosters work in 2 times longer</Description>
+        <Level>2</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 5</Name>
+        <Description>The bonus wall lasts for 2 seconds longer</Description>
+        <Level>2</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 6</Name>
+        <Description>For breaking his record in a free game more than one and a half times, the player receives an additional 300 coins</Description>
+        <Level>2</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 7</Name>
+        <Description>Every 50 seconds a player gets a green booster for 10 seconds</Description>
+        <Level>3</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 8</Name>
+        <Description>When receiving a booster, the player also gets 10 coins</Description>
+        <Level>3</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 9</Name>
+        <Description>Number of coins collected per session starts to affect the amount points per session in free mode</Description>
+        <Level>3</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 10</Name>
+        <Description>After losing, an additional 1000 points are added to the final score</Description>
+        <Level>4</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 11</Name>
+        <Description>A black booster appears in the game</Description>
+        <Level>4</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 12</Name>
+        <Description>When you receive a purple booster instead of slowing down all the walls for 10 seconds, all the walls on the screen stop for 5 seconds</Description>
+        <Level>4</Level>
+    </Perk><Perk>
+        <Name>Perk 13</Name>
+        <Description>At the beginning of the game, the player receives a yellow booster</Description>
+        <Level>5</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 14</Name>
+        <Description>A rainbow booster appears in the game</Description>
+        <Level>5</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 15</Name>
+        <Description>After the destruction of the bonus wall, the player receives a random booster</Description>
+        <Level>5</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 16</Name>
+        <Description>Points are earned one and a half times faster</Description>
+        <Level>6</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 17</Name>
+        <Description>Every 15 seconds a player receives a red booster</Description>
+        <Level>6</Level>
+    </Perk>
+    <Perk>
+        <Name>Perk 18</Name>
+        <Description>After the destruction of the wall, with probability of 2%, player gets a black booster</Description>
+        <Level>6</Level>
+    </Perk>
+</Perks>

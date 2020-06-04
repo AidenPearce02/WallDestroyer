@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Level>
+  <Wall distance="0">
+    <prefabRoof>WoodRoof</prefabRoof>
+    <prefabLeftLeg>NormalLeftLeg</prefabLeftLeg>
+    <prefabRightLeg>NormalRightLeg</prefabRightLeg>
+  </Wall>
+  <Wall distance="2">
+    <prefabRoof>WoodRoof</prefabRoof>
+  </Wall>
+  <Wall distance="2">
+    <prefabRoof>WoodRoof</prefabRoof>
+    <prefabLeftLeg>NormalLeftLeg</prefabLeftLeg>
+    <prefabRightLeg>NormalRightLeg</prefabRightLeg>
+  </Wall>
+  <Wall distance="2">
+    <prefabRoof>WoodRoof</prefabRoof>
+  </Wall>
+</Level>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Skins>
+    <Skin>
+        <Name>Doll</Name>
+        <Price>2000</Price>
+    </Skin>
+    <Skin>
+        <Name>Hero</Name>
+        <Price>2000</Price>
+    </Skin>
+</Skins>
